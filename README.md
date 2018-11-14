@@ -7,6 +7,8 @@ The number of test and train dataset is based on the Research Paper method, whic
 
 The result is table with F-measure, Precision and Recall metrics for every DMOZ category.
 
+The 'dmoz' project package is based on 'https://github.com/gr33ndata/dmoz-urlclassifier' repository.
+
 Before using Project files you need to download DMOZ Dataset 'content.rdf.u8' from website 'http://dmoztools.net'
 and put this file into 'data/' Project directory.
  
