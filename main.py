@@ -122,6 +122,8 @@ def main():
     del classifier, train_set, test_set, refsets, testsets
     gc.collect()
 
+    print(results)
+
 if __name__ == '__main__':
     get_content()
     get_categories()
